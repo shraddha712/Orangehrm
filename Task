@@ -1,0 +1,7 @@
+@Test(priority=1)
+	
+	public void CreateaccountTest()
+		{
+			System.out.println("Account is created");
+		}
+	
